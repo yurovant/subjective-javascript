@@ -29,5 +29,5 @@
 
 Выбранный подход умышленно неформален, немаркетологичен и нарушает (разрушает) "каноны" преподавания.
 Основными источниками вдохновения для книги послужили [Learn-X-In-Y-Minutes](https://learnxinyminutes.com), [Haskell-By-Example](https://lotz84.github.io/haskellbyexample/)
-и [Speaking JavaScript](speakingjs.com/es5/index.html). Список использованных ресурсов
+и [Speaking JavaScript](http://web.archive.org/web/20220424233339/speakingjs.com/es5/index.html). Список использованных ресурсов
 приведен в конце книги.
